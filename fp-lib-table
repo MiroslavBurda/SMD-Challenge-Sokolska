@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name smd_challenge_sokolska)(type KiCad)(uri ${KIPRJMOD}/smd_challenge_sokolska.pretty)(options "")(descr ""))
+)

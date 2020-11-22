@@ -1,0 +1,4 @@
+
+- proč se na začátku názvu U01 opakovaně objevuje křížek, i když ho mažu? 
+- proč při aktualizaci DPS ze schématu se nepřenese/neaktualizuje pouzdrou od U01 ?
+- jak propojit pouzdro, které není ve schématu s ostatními součástkami? 

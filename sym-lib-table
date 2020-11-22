@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name lib_smd_challenge)(type Legacy)(uri ${KIPRJMOD}/lib_smd_challenge.lib)(options "")(descr ""))
+  (lib (name smd_challenge_sokolska-rescue)(type Legacy)(uri ${KIPRJMOD}/smd_challenge_sokolska-rescue.lib)(options "")(descr ""))
+)
