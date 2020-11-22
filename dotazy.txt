@@ -1,4 +1,6 @@
 
 - proč se na začátku názvu U01 opakovaně objevuje křížek, i když ho mažu? 
 - proč při aktualizaci DPS ze schématu se nepřenese/neaktualizuje pouzdrou od U01 ?
-- jak propojit pouzdro, které není ve schématu s ostatními součástkami? 
+- jak propojit pouzdro, které není ve schématu s ostatními součástkami?
+- plochy z U01 se nezobrazují do desky po panelizaci
+- lze znovunačíst desku po panelizaci, aniž bych musel vypínat a zapínat Pcbnew?
